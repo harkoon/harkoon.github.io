@@ -1,0 +1,6 @@
+name: harkoon
+pygments: true
+markdown: redcarpet
+permalink: /:title.html
+relative_permalinks: false
+encoding: utf-8
